@@ -1,0 +1,2 @@
+# OSPF-DHCP-EtherChannel-VTP-VLAN-and-RSTP-Implementation-in-Packet-Tracer
+Explore advanced network technologies in Cisco Packet Tracer! This repository showcases a comprehensive network topology featuring OSPF routing, DHCP server, EtherChannel with PAgP, VTP server &amp; client, VLAN configurations, and RSTP protocol. Get hands-on experience and solidify my understanding of these essential network concepts. 
